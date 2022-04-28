@@ -5,4 +5,4 @@
 - 💬 Ask me about something
 - 📫 How to reach me: https://ayouj-younes.netlify.app/
 - [![trophy](https://github-profile-trophy.vercel.app/?username=younes789&theme=onedark&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-- ![](https://komarev.com/ghpvc/?username=your-github-younes789&style=flat-square)
+- ![](https://komarev.com/ghpvc/?username=younes789&style=flat-square)

@@ -7,7 +7,7 @@
 - 💬 Ask me about something
 - 📫 How to reach me: https://ayouj-younes.netlify.app/
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younes789&show_icons=true&theme=radical)
-- [![trophy](https://github-profile-trophy.vercel.app/?username=younes789&theme=onedark&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=younes789&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 

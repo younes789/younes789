@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2zkv2zf8wn87yzppfl5keot2c&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
-<img align="center" alt="Coding" width="280" src="https://media3.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47u498z1b8d7ftb73udfw990u9bsso3hlj3ze06o7t&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="280" src="https://media3.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47u498z1b8d7ftb73udfw990u9bsso3hlj3ze06o7t&rid=giphy.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Younes Ayouj</h1>
 <h3 align="center">A passionate Junior web developer from morocco</h3>
 

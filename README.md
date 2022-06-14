@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **something cool!**
 
-- 🌱 I’m currently learning **React/php**
+- 🌱 I’m currently learning **React/php/Laravel/Java**
 
 - 👨‍💻Resume/Contact form/All of my projects are available at [https://ayouj-younes.netlify.app/](https://ayouj-younes.netlify.app/)
 
